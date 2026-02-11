@@ -8,7 +8,7 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 
 ### Alguns Wallpapers
 
-[[abstract-swirls.jpg](./Illogical/abstract-swirls.jpg)
+![abstract-swirls.jpg](./Illogical/abstract-swirls.jpg)
 
 ![[artificial-valley.jpg]]
 
