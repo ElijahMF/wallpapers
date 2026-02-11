@@ -10,7 +10,15 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 
 ![[abstract-swirls.jpg]]
 
+![[artificial-valley.jpg]]
 
+![[bloodrock-steppes.png]]
+
+![[clouds.png]]
+
+![[dwarf-saber.jpg]]
+
+![[pompeii.png]]
 
 ---
 
