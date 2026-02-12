@@ -36,11 +36,12 @@ Você tem duas opções principais para baixar as imagens:
 
 ### Opção 2: Baixar Todos os Arquivos (Recomendado)
 
-Se você deseja obter a coleção completa de uma só vez, utilize a função de Download ZIP do GitHub:
+Se você deseja obter a coleção completa de uma só vez, utilize o git para fazer o download de todos os wallpapers de uma vez:
 
-1.  Na página principal do repositório, clique no botão verde **"Code"** (Código).
-2.  No menu que se abrir, selecione a opção **"Download ZIP"**.
-3.  O arquivo compactado contendo todos os wallpapers será baixado para o seu computador. Basta descompactá-lo e usar as imagens.
+1. Pressione botão Super (Windows) + R.
+2. Digite 'cmd' e tecle Enter.
+3. Navegue até o local aonde quer deixar as imagens baixadas.
+4. Então use: git clone https://github.com/ElijahMF/wallpapers ~/Wallpapers
 
 ---
 
