@@ -10,15 +10,15 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 
 ![abstract-swirls.jpg](./Illogical/abstract-swirls.jpg)
 
-![[artificial-valley.jpg]]
+![artificial-valley.jpg](./Illogical/artificial-valley.jpg)
 
-![[bloodrock-steppes.png]]
+![bloodrock-steppes.png](./Illogical/bloodrock-steppes.png)
 
-![[clouds.png]]
+![clouds.png](./Illogical/clouds.png)
 
-![[dwarf-saber.jpg]]
+![dwarf-saber.jpg](./Illogical/dwarf-saber.jpg)
 
-![[pompeii.png]]
+![pompeii.png](./Illogical/pompeii.png)
 
 ---
 
