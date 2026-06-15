@@ -8,17 +8,17 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 
 ### Alguns Wallpapers
 
-![abstract-swirls.jpg](./Illogical/abstract-swirls.jpg)
+![abstract-swirls.jpg](./desktop-hypr/abstract-swirls.jpg)
 
-![artificial-valley.jpg](./Illogical/artificial-valley.jpg)
+![artificial-valley.jpg](./desktop-hypr/artificial-valley.jpg)
 
-![bloodrock-steppes.png](./Illogical/bloodrock-steppes.png)
+![bloodrock-steppes.png](./desktop-hypr/bloodrock-steppes.png)
 
-![clouds.png](./Illogical/clouds.png)
+![clouds.png](./desktop-hypr/clouds.png)
 
-![dwarf-saber.jpg](./Illogical/dwarf-saber.jpg)
+![dwarf-saber.jpg](./desktop-hypr/dwarf-saber.jpg)
 
-![pompeii.png](./Illogical/pompeii.png)
+![pompeii.png](./desktop-hypr/pompeii.png)
 
 ---
 
