@@ -8,17 +8,36 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 
 ### Alguns Wallpapers
 
-![abstract-swirls.jpg](./desktop-hypr/abstract-swirls.jpg)
-
-![artificial-valley.jpg](./desktop-hypr/artificial-valley.jpg)
-
-![bloodrock-steppes.png](./desktop-hypr/bloodrock-steppes.png)
-
-![clouds.png](./desktop-hypr/clouds.png)
-
-![dwarf-saber.jpg](./desktop-hypr/dwarf-saber.jpg)
-
-![pompeii.png](./desktop-hypr/pompeii.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="./desktop-hypr/abstract-swirls.jpg" width="200px" alt="Abstract Swirls"/><br/>
+      <sub><b>Abstract Swirls</b></sub>
+    </td>
+    <td align="center">
+      <img src="./desktop-hypr/artificial-valley.jpg" width="200px" alt="Artificial Valley"/><br/>
+      <sub><b>Artificial Valley</b></sub>
+    </td>
+    <td align="center">
+      <img src="./desktop-hypr/bloodrock-steppes.png" width="200px" alt="Bloodrock Steppes"/><br/>
+      <sub><b>Bloodrock Steppes</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./desktop-hypr/clouds.png" width="200px" alt="Clouds"/><br/>
+      <sub><b>Clouds</b></sub>
+    </td>
+    <td align="center">
+      <img src="./desktop-hypr/dwarf-saber.jpg" width="200px" alt="Dwarf Saber"/><br/>
+      <sub><b>Dwarf Saber</b></sub>
+    </td>
+    <td align="center">
+      <img src="./desktop-hypr/pompeii.png" width="200px" alt="Pompeii"/><br/>
+      <sub><b>Pompeii</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
