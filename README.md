@@ -4,6 +4,20 @@ Esta é uma coleção de papéis de parede (wallpapers) de **alta qualidade** e 
 
 O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visuais estéticos.
 
+
+<!-- ### Alguns Wallpapers
+
+<p align="center">
+  <img src="./desktop-hypr/abstract-swirls.jpg" width="230px" alt="Abstract Swirls" style="margin: 5px;"/>
+  <img src="./desktop-hypr/artificial-valley.jpg" width="230px" alt="Artificial Valley" style="margin: 5px;"/>
+  <img src="./desktop-hypr/bloodrock-steppes.png" width="230px" alt="Bloodrock Steppes" style="margin: 5px;"/>
+<!-- </p>
+<p align="center">
+  <img src="./desktop-hypr/clouds.png" width="230px" alt="Clouds" style="margin: 5px;"/>
+  <img src="./desktop-hypr/dwarf-saber.jpg" width="230px" alt="Dwarf Saber" style="margin: 5px;"/>
+  <img src="./desktop-hypr/pompeii.png" width="230px" alt="Pompeii" style="margin: 5px;"/>
+</p> -->
+
 ---
 
 ### Desktop Hypr
@@ -12,33 +26,37 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
   <tr>
     <td align="center">
       <img src="./desktop-hypr/pixel-galaxy.png" width="200px" alt="Pixel galaxy"/><br/>
-      <sub><b>Pixel Galaxy</b></sub>
+      <!-- <sub><b>Pixel Galaxy</b></sub> -->
     </td>
     <td align="center">
       <img src="./desktop-hypr/artificial-valley.jpg" width="200px" alt="Artificial Valley"/><br/>
-      <sub><b>Artificial Valley</b></sub>
+      <!-- <sub><b>Artificial Valley</b></sub> -->
     </td>
     <td align="center">
       <img src="./desktop-hypr/bloodrock-steppes.png" width="200px" alt="Bloodrock Steppes"/><br/>
-      <sub><b>Bloodrock Steppes</b></sub>
+      <!-- <sub><b>Bloodrock Steppes</b></sub> -->
     </td>
     <td align="center">
       <img src="./desktop-hypr/black-hole.png" width="200px" alt="Buraco Negro"/><br/>
-      <sub><b>Buraco Negro</b></sub>
+      <!-- <sub><b>Buraco Negro</b></sub> -->
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./desktop-hypr/clouds.png" width="200px" alt="Clouds"/><br/>
-      <sub><b>Clouds</b></sub>
+      <!-- <sub><b>Clouds</b></sub> -->
     </td>
     <td align="center">
       <img src="./desktop-hypr/dwarf-saber.jpg" width="200px" alt="Dwarf Saber"/><br/>
-      <sub><b>Dwarf Saber</b></sub>
+      <!-- <sub><b>Dwarf Saber</b></sub> -->
     </td>
     <td align="center">
       <img src="./desktop-hypr/pompeii.png" width="200px" alt="Pompeii"/><br/>
-      <sub><b>Pompeii</b></sub>
+      <!-- <sub><b>Pompeii</b></sub> -->
+    </td>
+    <td align="center">
+      <img src="./desktop-hypr/cyberpunk.png" width="200px" alt="Cyberpunk"/><br/>
+      <!-- <sub><b>Cyberpunk</b></sub> -->
     </td>
   </tr>
 </table>
@@ -85,29 +103,29 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 <table>
   <tr>
     <td align="center">
-      <img src="./mobile/Spooky-Skeleton.jpeg" width="200px" alt="Spooky-Skeleton"/><br/>
+      <img src="./mobile/Spooky-Skeleton.jpeg" height="400px" width="200px" alt="Spooky-Skeleton"/><br/>
       <sub><b>Spooky-Skeleton</b></sub>
     </td>
     <td align="center">
-      <img src="./mobile/casa-assombrada.png" width="200px" alt="Casa Assombrada"/><br/>
+      <img src="./mobile/casa-assombrada.png" height="400px" width="200px" alt="Casa Assombrada"/><br/>
       <sub><b>Casa Assombrada</b></sub>
     </td>
     <td align="center">
-      <img src="./mobile/astro-explorer.png" width="200px" alt="Astro Explorer"/><br/>
+      <img src="./mobile/astro-explorer.png" height="400px" width="200px" alt="Astro Explorer"/><br/>
       <sub><b>Astro Explorer</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./mobile/pedra-filosofal.png" width="200px" alt="Pedra Filosofal"/><br/>
+      <img src="./mobile/pedra-filosofal.png" height="400px" width="200px" alt="Pedra Filosofal"/><br/>
       <sub><b>Spooky-Skeleton</b></sub>
     </td>
     <td align="center">
-      <img src="./mobile/berserk.png" width="200px" alt="Berserk"/><br/>
+      <img src="./mobile/berserk.png" height="400px" width="200px" alt="Berserk"/><br/>
       <sub><b>Berserk</b></sub>
     </td>
     <td align="center">
-      <img src="./mobile/pato.jpg" width="200px" alt="Pato!"/><br/>
+      <img src="./mobile/pato.jpg" height="400px" width="200px" alt="Pato!"/><br/>
       <sub><b>Pato!</b></sub>
     </td>
   </tr>
