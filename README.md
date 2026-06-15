@@ -123,7 +123,7 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
       <sub><b>Astro Explorer</b></sub>
     </td>
     <td align="center">
-      <img src="./mobile/mountain.png" height="400px" width="200px" alt="Mountain"/><br/>
+      <img src="./mobile/mountain.jpeg" height="400px" width="200px" alt="Mountain"/><br/>
       <sub><b>Mountain</b></sub>
     </td>
   </tr>
