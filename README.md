@@ -22,6 +22,10 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
       <img src="./desktop-hypr/bloodrock-steppes.png" width="200px" alt="Bloodrock Steppes"/><br/>
       <sub><b>Bloodrock Steppes</b></sub>
     </td>
+    <td align="center">
+      <img src="./desktop-hypr/black-hole.png" width="200px" alt="Buraco Negro"/><br/>
+      <sub><b>Buraco Negro</b></sub>
+    </td>
   </tr>
   <tr>
     <td align="center">
