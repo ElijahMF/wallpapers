@@ -79,6 +79,10 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
       <img src="./desktop-kde/gato-comuna.png" width="200px" alt="Gato Comuna"/><br/>
       <sub><b>Gato Comuna</b></sub>
     </td>
+    <td align="center">
+      <img src="./desktop-kde/macaco-floresta.jpg" width="200px" alt="Macaco Floresta"/><br/>
+      <sub><b>Macaco Floresta</b></sub>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -92,6 +96,10 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
     <td align="center">
       <img src="./desktop-kde/malenia-elden.jpg" width="200px" alt="Malenia"/><br/>
       <sub><b>Malenia</b></sub>
+    </td>
+    <td align="center">
+      <img src="./desktop-kde/samurai.jpg" width="200px" alt="Samurai"/><br/>
+      <sub><b>Samurai</b></sub>
     </td>
   </tr>
 </table>
@@ -114,6 +122,10 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
       <img src="./mobile/astro-explorer.png" height="400px" width="200px" alt="Astro Explorer"/><br/>
       <sub><b>Astro Explorer</b></sub>
     </td>
+    <td align="center">
+      <img src="./mobile/mountain.png" height="400px" width="200px" alt="Mountain"/><br/>
+      <sub><b>Mountain</b></sub>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -125,8 +137,12 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
       <sub><b>Berserk</b></sub>
     </td>
     <td align="center">
-      <img src="./mobile/pato.jpg" height="400px" width="200px" alt="Pato!"/><br/>
-      <sub><b>Pato!</b></sub>
+      <img src="./mobile/astro-explorer.png" height="400px" width="200px" alt="Astro Explorer"/><br/>
+      <sub><b>Astro Explorer</b></sub>
+    </td>
+    <td align="center">
+      <img src="./mobile/fullmetal.jpg" height="400px" width="200px" alt="Fullmetal"/><br/>
+      <sub><b>Fullmetal</b></sub>
     </td>
   </tr>
 </table>
