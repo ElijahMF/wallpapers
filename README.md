@@ -6,13 +6,13 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 
 ---
 
-### Alguns Wallpapers
+### Desktop Hypr
 
 <table>
   <tr>
     <td align="center">
-      <img src="./desktop-hypr/abstract-swirls.jpg" width="200px" alt="Abstract Swirls"/><br/>
-      <sub><b>Abstract Swirls</b></sub>
+      <img src="./desktop-hypr/pixel-galaxy.png" width="200px" alt="Pixel galaxy"/><br/>
+      <sub><b>Pixel Galaxy</b></sub>
     </td>
     <td align="center">
       <img src="./desktop-hypr/artificial-valley.jpg" width="200px" alt="Artificial Valley"/><br/>
@@ -35,6 +35,76 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
     <td align="center">
       <img src="./desktop-hypr/pompeii.png" width="200px" alt="Pompeii"/><br/>
       <sub><b>Pompeii</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Desktop KDE
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./desktop-kde/pinguim-assustado.png" width="200px" alt="Pinguim Assustado"/><br/>
+      <sub><b>Pinguim Assustado</b></sub>
+    </td>
+    <td align="center">
+      <img src="./desktop-kde/berserk-guts.png" width="200px" alt="Berserk Guts"/><br/>
+      <sub><b>Berserk Guts</b></sub>
+    </td>
+    <td align="center">
+      <img src="./desktop-kde/gato-comuna.png" width="200px" alt="Gato Comuna"/><br/>
+      <sub><b>Gato Comuna</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./desktop-kde/space.png" width="200px" alt="Space"/><br/>
+      <sub><b>Space</b></sub>
+    </td>
+    <td align="center">
+      <img src="./desktop-kde/cabana-azul.png" width="200px" alt="Cabana Azul"/><br/>
+      <sub><b>Cabana Azul</b></sub>
+    </td>
+    <td align="center">
+      <img src="./desktop-kde/malenia-elden.png" width="200px" alt="Malenia"/><br/>
+      <sub><b>Malenia</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Mobile
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./mobile/Spooky-Skeleton.jpeg" width="200px" alt="Spooky-Skeleton"/><br/>
+      <sub><b>Spooky-Skeleton</b></sub>
+    </td>
+    <td align="center">
+      <img src="./mobile/casa-assombrada.png" width="200px" alt="Casa Assombrada"/><br/>
+      <sub><b>Casa Assombrada</b></sub>
+    </td>
+    <td align="center">
+      <img src="./mobile/astro-explorer.png" width="200px" alt="Astro Explorer"/><br/>
+      <sub><b>Astro Explorer</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./mobile/pedra-filosofal.png" width="200px" alt="Pedra Filosofal"/><br/>
+      <sub><b>Spooky-Skeleton</b></sub>
+    </td>
+    <td align="center">
+      <img src="./mobile/berserk.png" width="200px" alt="Berserk"/><br/>
+      <sub><b>Berserk</b></sub>
+    </td>
+    <td align="center">
+      <img src="./mobile/pato.jpg" width="200px" alt="Pato!"/><br/>
+      <sub><b>Pato!</b></sub>
     </td>
   </tr>
 </table>
