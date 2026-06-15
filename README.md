@@ -68,7 +68,7 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
       <sub><b>Cabana Azul</b></sub>
     </td>
     <td align="center">
-      <img src="./desktop-kde/malenia-elden.png" width="200px" alt="Malenia"/><br/>
+      <img src="./desktop-kde/malenia-elden.jpg" width="200px" alt="Malenia"/><br/>
       <sub><b>Malenia</b></sub>
     </td>
   </tr>
