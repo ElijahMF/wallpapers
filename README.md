@@ -25,30 +25,30 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 <table>
   <tr>
     <td align="center">
-      <img src="./desktop/Arts/cabana-vermelha.png" width="200px"/><br/>
+      <img src="./desktop/Arts/cabana-vermelha.png" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Arts/african-light.jpg" width="200px"/><br/>
+      <img src="./desktop/Arts/african-light.jpg" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Arts/sunset-lookout.jpg" width="200px"/><br/>
+      <img src="./desktop/Arts/sunset-lookout.jpg" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Arts/sakura.png" width="200px"/><br/>
+      <img src="./desktop/Arts/sakura.png" height="1080px" width="1920px"/><br/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./desktop/Arts/panda-gate.png" width="200px"/><br/>
+      <img src="./desktop/Arts/panda-gate.png" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Arts/mellow-dreams.jpg" width="200px"/><br/>
+      <img src="./desktop/Arts/mellow-dreams.jpg" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Arts/waterfall-pixelart.png" width="200px"/><br/>
+      <img src="./desktop/Arts/waterfall-pixelart.png" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Arts/spaceship-34.jpg" width="200px"/><br/>
+      <img src="./desktop/Arts/spaceship-34.jpg" height="1080px" width="1920px"/><br/>
     </td>
   </tr>
 </table>
@@ -60,30 +60,30 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 <table>
   <tr>
     <td align="center">
-      <img src="./desktop/Space/astronaut_jellyfish.jpg" width="200px"/><br/>
+      <img src="./desktop/Space/astronaut_jellyfish.jpg" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Space/astronaut-space.png" width="200px"/><br/>
+      <img src="./desktop/Space/astronaut-space.png" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Space/spaceship.jpeg" width="200px"/><br/>
+      <img src="./desktop/Space/spaceship.jpeg" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Space/stars-purple.png" width="200px"/><br/>
+      <img src="./desktop/Space/stars-purple.png" height="1080px" width="1920px"/><br/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./desktop/Space/stars-purple.png" width="200px"/><br/>
+      <img src="./desktop/Space/stars-purple.png" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Space/space-piano.png" width="200px"/><br/>
+      <img src="./desktop/Space/space-piano.png" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Space/infinity-space.png" width="200px"/><br/>
+      <img src="./desktop/Space/infinity-space.png" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./desktop/Space/puffy-stars.jpg" width="200px"/><br/>
+      <img src="./desktop/Space/puffy-stars.jpg" height="1080px" width="1920px"/><br/>
     </td>
   </tr>
 </table>
