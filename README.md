@@ -95,30 +95,30 @@ O foco está em artes conceituais, paisagens de fantasia, temas espaciais e visu
 <table>
   <tr>
     <td align="center">
-      <img src="./mobile/Skeleton/Spooky-Skeleton.jpeg" height="400px" width="200px"/><br/>
+      <img src="./mobile/Skeleton/Spooky-Skeleton.jpeg" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./mobile/Paints/casa-assombrada.png" height="400px" width="200px"/><br/>
+      <img src="./mobile/Paints/casa-assombrada.png" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./mobile/Space/astro-explorer.png" height="400px" width="200px"/><br/>
+      <img src="./mobile/Space/astro-explorer.png" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./mobile/Paints/sunset.png" height="400px" width="200px"/><br/>
+      <img src="./mobile/Paints/sunset.png" height="1080px" width="1920px"/><br/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./mobile/Pets/sushi-cat.jpeg" height="400px" width="200px"/><br/>
+      <img src="./mobile/Pets/sushi-cat.jpeg" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./mobile/Space/space-outer.jpeg" height="400px" width="200px"/><br/>
+      <img src="./mobile/Space/space-outer.jpeg" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./mobile/Monochrome/mountains_mono.jpg" height="400px" width="200px"/><br/>
+      <img src="./mobile/Monochrome/mountains_mono.jpg" height="1080px" width="1920px"/><br/>
     </td>
     <td align="center">
-      <img src="./mobile/Anime/fullmetal.jpg" height="400px" width="200px"/><br/>
+      <img src="./mobile/Anime/fullmetal.jpg" height="1080px" width="1920px"/><br/>
     </td>
   </tr>
 </table>
